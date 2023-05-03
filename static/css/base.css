@@ -47,7 +47,7 @@ body {
 .btn-black:hover,
 .btn-black:active,
 .btn-black:focus {
-    background: #222;
+    background: rgb(154, 13, 13);
     color: white;
 }
 

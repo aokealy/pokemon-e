@@ -61,7 +61,7 @@
                   <li class="list-inline-item dropdown">
                       <a class="text-black nav-link" href="#" id="user-options" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                           <div class="text-center">
-                              <div><i class="fas fa-user fa-lg"></i></div>
+                              <div><i class="fa-solid fa-user fa-lg" style="color: #fb1818;"></i></div>
                               <p class="my-0">My Account</p>
                           </div>
                       </a>
@@ -81,7 +81,7 @@
                   <li class="list-inline-item">
                       <a class="{% if grand_total %}text-info font-weight-bold{% else %}text-black{% endif %} nav-link" href="">
                           <div class="text-center">
-                              <div><i class="fa-solid fa-cart-shopping" style="color: #fb1818;"></i></div>
+                              <div><i class="fa-solid fa-cart-shopping fa-lg" style="color: #f50000;"></i></div>
                               <p class="my-0">
                                   {% if grand_total %}
                                       ${{ grand_total|floatformat:2 }}
@@ -95,7 +95,7 @@
               </ul>
           </div>
       </div>
-      <div class="row bg-white">
+      <div class="row bg-white text-wrap border border-white rounded-pill w-50 p-3 shadow-lg p-3 mb-5 bg-white rounded">
         <nav class="navbar navbar-expand-lg navbar-light w-100">
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#main-nav" aria-controls="main-nav" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
@@ -104,6 +104,11 @@
             {% include 'includes/main-nav.html' %}
         </nav>
     </div>
+    <div id="delivery-banner" class="row text-left">
+      <div class="col bg-black text-white">
+          <h4 class="logo-font my-1">Free delivery on orders over ${{ free_shipping_threshold }}!</h4>                
+      </div>            
+  </div>
    
   </header>
 

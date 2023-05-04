@@ -14,7 +14,7 @@
                 Graded
             </a>
             <div class="dropdown-menu border-0" aria-labelledby="graded-link">
-                <a href="" class="dropdown-item">Graded Cards</a>
+                <a href="{% url 'products' %}?category=Graded" class="dropdown-item">Graded Cards</a>
                
             </div>
         </li>
@@ -24,7 +24,7 @@
                 Sealed
             </a>
             <div class="dropdown-menu border-0" aria-labelledby="sealed-link">
-                <a href="" class="dropdown-item">Sealed Products</a>
+                <a href="{% url 'products' %}?category=Sealed" class="dropdown-item">Sealed Products</a>
             
             </div>
         </li>
@@ -34,7 +34,7 @@
                 Ungraded 
             </a>
             <div class="dropdown-menu border-0" aria-labelledby="ungraded-link">
-                <a href="" class="dropdown-item">Ungraded Cards</a>
+                <a href="{% url 'products' %}?category=Ungraded" class="dropdown-item">Ungraded Cards</a>
                 
             </div>
         </li>

@@ -37,7 +37,7 @@
                                 <div class="card-body pb-0">
                                     <p class="mb-0">{{ product.name }}</p>
                                 </div>
-                                <!--footer for product rating and amount-->
+                                <!--footer for product grade and amount-->
                                 <div class="card-footer bg-Secondary link pt-0 border-rounded text-left">
                                     <div class="row">
                                         <div class="col">
@@ -78,5 +78,20 @@
             </div>
         </div>
     </div>
+    <div class="btt-button shadow-lg rounded border border-black">
+        <a class="btt-link d-flex h-100">
+            <i class="fas fa-arrow-up text-black mx-auto my-auto"></i>
+        </a>	
+    </div>
 {% endblock %}
 
+{% block postloadjs %}
+    {{ block.super }}
+    <script type="text/javascript">
+		$('.btt-link').click(function(e) {
+			window.scrollTo(0,0)
+		})
+	</script>
+
+
+{% endblock %}

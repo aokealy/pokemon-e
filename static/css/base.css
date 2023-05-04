@@ -40,15 +40,7 @@ body {
     background: red;
     color: white;
 }
-.overlay {
-	height: 100%;
-	width: 100%;
-	top: 0;
-	left: 0;
-	position: fixed;
-	background: #f6e652;
-	z-index: -1;
-}
+
 
 .shop-now-button:hover,
 .shop-now-button:active,
@@ -66,6 +58,16 @@ body {
 
 .border-black {
     border: 1px solid black !important;
+}
+
+.overlay {
+	height: 100%;
+	width: 100%;
+	top: 0;
+	left: 0;
+	position: fixed;
+	background: #f6e652;
+	z-index: -1;
 }
 
 /* -------------------------------- Media Queries */
@@ -89,5 +91,15 @@ body {
 
     .header-container {
         padding-top: 164px;
+    }
+}
+
+@media (max-width: 991px) {
+    .header-container {
+        padding-top: 116px;
+    }
+
+    body {
+        height: calc(100vh - 116px);
     }
 }

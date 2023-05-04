@@ -40,7 +40,11 @@ body {
     background: red;
     color: white;
 }
-
+.btn-outline-red {
+    background: white;
+    color: red !important; 
+    border: 1px solid red;
+}
 
 .shop-now-button:hover,
 .shop-now-button:active,

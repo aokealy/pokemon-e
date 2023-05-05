@@ -1,5 +1,6 @@
 html {
     height: 100%;
+    
 }
 
 body {
@@ -8,6 +9,7 @@ body {
     height: calc(50vh - 90px);
     color: #555;
     font-family: 'Bruno Ace', cursive;
+    
 }
 
 
@@ -19,6 +21,7 @@ body {
     height: 1.5rem;
     width: 1.5rem;
 }
+
 
 .logo-font {
     text-transform: uppercase;
@@ -87,6 +90,10 @@ body {
 .remove-item {
     cursor: pointer;
 }
+
+
+
+
 
 
 /* -------------------------------- Media Queries */

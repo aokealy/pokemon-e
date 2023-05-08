@@ -61,7 +61,7 @@
                                     <ul class="list-unstyled">
                                         {% for item in order.lineitems.all %}
                                             <li class="small">
-                                                {% if item.product.condition %}
+                                                {% if item.product.has_condition %}
                                                     condition {{ item.product.condition|upper }}
                                                 {% endif %}{{ item.product.name }} x{{ item.quantity }}
                                             </li>

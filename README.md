@@ -6,7 +6,7 @@ https://pokemon-e.herokuapp.com/
 
 UX Design
 ========
-The layout is simple where it makes it easy for users to see everything
+The layout is simple where it makes it easy for users to see everything and have easy access in any view 
 
 
 FEATURES 

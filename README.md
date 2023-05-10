@@ -12,7 +12,7 @@ The layout is simple where it makes it easy for users to see everything and have
 FEATURES 
 ========
 
-* Django allows us to create a full functioning website s
+* Django allows us to create a full functioning websites
 * Postgres was used for static files 
 * Allauth was used for Autentication 
 * stripe was used for the payment system. 

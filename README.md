@@ -1,39 +1,44 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+Pokemon Ecommerce
+========
+Welcome to my Pokemon Website where we will sell Pokemon items such as Graded cards and sealed products. 
+I have always wanted to create a Pokemon Website and sell Pokemon stuff.
 
-Welcome,
+UX Design
+========
+The layout is simple where it makes it easy for users to see everything
 
-This is the Code Institute student template for Codeanywhere. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Codeanywhere and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **March 3rd, 2023**
+FEATURES 
+========
 
-## Codeanywhere Reminders
+* Django allows us to create a full functioning website 
+* Postgres was used for static files 
+* Allauth was used for Autentication 
+* stripe was used for the payment system. 
+* Website is design using mobile-first approach.
+* SEO for good search optimisation 
+* Sort by function 
+* add to cart function 
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere, in the terminal, type:
 
-`python3 -m http.server`
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+TECHNOLOGIES 
+=============
+The following languages, frameworks, libraries, and tools were used to construct this project. 
+* HTML
+* CSS
+* Bootstrap (https://getbootstrap.com/) : This project uses Bootstrap to simplify the development of the webpage
+* Python 
+* Django
+* Sqlite3
+* Heroku
+* stripe 
+* Postgres 
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere with no-cache, you can use this alias for `python3 -m http.server`.
-
-`http_server`
-
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
-
-A button should appear to click: _Open Preview_ or _Open Browser_.
-
-In Codeanywhere you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
-
-To log into the Heroku toolbelt CLI:
-
-1. Log in to your Heroku account and go to _Account Settings_ in the menu under your avatar.
-2. Scroll down to the _API Key_ and click _Reveal_
-3. Copy the key
-4. In Codeanywhere, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
-
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
-
----
-
-Happy coding!
+Reference 
+=============
+- <https://wallpapersafari.com/w/qBP3Q1> Pokemon background
+- <https://www.pngitem.com/middle/iRhoToh_pokemon-ex-cards-png-transparent-png/> Deoxys Image
+- <https://d16hw7tbcsk68f.cloudfront.net/s3/cgccards-production/research/subcategories/pok_pop-series.png> Espeon Gold Star Graded
+- <https://d16hw7tbcsk68f.cloudfront.net/s3/cgccards-production/research/subcategories/pok_e-series-v2.png> Celebi Graded
+- <https://d16hw7tbcsk68f.cloudfront.net/s3/cgccards-production/research/subcategories/pok_promotional>

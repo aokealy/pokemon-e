@@ -4,11 +4,11 @@ Welcome to my Pokemon Website where we will sell Pokemon items such as Graded ca
 I have always wanted to create a Pokemon Website and sell Pokemon stuff.
 https://pokemon-e.herokuapp.com/
 
-UX Design
+UX Design:
 ========
 The layout is simple where I took layout of Project 5 walkthrough project but addded my own blend to it to make it feel like my own project.
 
-Wireframes
+Wireframes:
 ========
  - https://wireframe.cc/u9GpTB - Home Page
  - https://wireframe.cc/xLmyUQ - Products Page
@@ -18,7 +18,7 @@ Wireframes
  
  
  
-colours
+colours:
 =========
 The colours that were used in this webiste were to match the colours of pikachu.
 - We have the colour yellow which matches the colour of pikachu's fur.
@@ -28,7 +28,7 @@ The colours that were used in this webiste were to match the colours of pikachu.
 - ![#FF0000](https://placehold.co/15x15/FF0000/FF0000.png) `#FF0000`
 - ![#000000](https://placehold.co/15x15/000000/000000.png) `#000000`
 
-Typography
+Typography:
 ========
 The Typography that was used during this project was Bruno Ace.
 - Bruno Ace draws inspiration from modern automotive logos. This techno geometric sans has a wide stance with a tall x-height for a strong look and appeal. Both a normal case and small caps font exists.
@@ -54,7 +54,7 @@ Profile
 ====
 <img src="media/profile.PNG">
 
-FEATURES 
+FEATURES:
 ========
 
 * Django allows us to create a full functioning websites
@@ -68,7 +68,7 @@ FEATURES
 
 
 
-TECHNOLOGIES 
+TECHNOLOGIES:
 =============
 The following languages, frameworks, libraries, and tools were used to construct this project. 
 * HTML
@@ -118,7 +118,12 @@ This package renders Django forms using Bootstrap conventions and classes, effec
 It also permits customisation of form rendering, from layout, to individual field styles.
 I have used this package throughout to provide better structured forms with responsive design.
 
-Reference 
+Facebook Page:
+========
+- <img src="media/facebook-page.PNG"> Pictures of facebook page
+- <img src="media/facebook-post.PNG">
+
+References: 
 =============
 - <https://wallpapersafari.com/w/qBP3Q1> Pokemon background
 - <https://www.pngitem.com/middle/iRhoToh_pokemon-ex-cards-png-transparent-png/> Deoxys Image

@@ -8,6 +8,9 @@ UX Design
 ========
 The layout is simple where it makes it easy for users to see everything and have easy access in any view 
 
+Wireframes
+========
+https://wireframe.cc/xLmyUQ - Products Page
 
 FEATURES 
 ========
@@ -79,4 +82,16 @@ Reference
 - <https://www.pngitem.com/middle/iRhoToh_pokemon-ex-cards-png-transparent-png/> Deoxys Image
 - <https://d16hw7tbcsk68f.cloudfront.net/s3/cgccards-production/research/subcategories/pok_pop-series.png> Espeon Gold Star Graded
 - <https://d16hw7tbcsk68f.cloudfront.net/s3/cgccards-production/research/subcategories/pok_e-series-v2.png> Celebi Graded
-- <https://d16hw7tbcsk68f.cloudfront.net/s3/cgccards-production/research/subcategories/pok_promotional>
+- <https://www.pngitem.com/middle/owRRwJ_pokemon-cards-png-pokemon-alakazam-ex-transparent-png/> Alakazam ungraded
+- <https://www.pngitem.com/middle/iTmmhRo_volcanion-ex-pokemon-card-hd-png-download/> Volcanion ungraded
+- <https://www.pngitem.com/middle/hmmTooo_m-latias-ex-pokemon-card-hd-png-download/> Heatron ungraded
+- <https://www.pngitem.com/middle/ihTmJwT_pokemon-cards-jumbo-pack-hd-png-download/> Melmetal sealed box
+- <https://www.pngitem.com/middle/xbTxwJ_pokemon-tcg-booster-packs-and-promo-cards-kingdra/> Kingdra Ex sealed box
+- <https://www.pngitem.com/middle/ihTmwRw_image-pokemon-tcg-hidden-fates-hd-png-download/> Motres, Zapdos and Articuno ungraded
+- <https://www.pngitem.com/middle/iTmmiTo_burning-spark-theme-deck-pokemon-theme-decks-hd/> Burning Sparks theme deck sealed
+- <https://www.pngitem.com/middle/iTmmiRT_pokemon-tcg-burning-shadows-hd-png-download/> Burning Shadows booster pack
+- <https://www.pngitem.com/middle/wwoRho_mega-lucario-pokemon-cards-ex-and-gx-hd/> Lucaio Ex ungraded
+- <https://d16hw7tbcsk68f.cloudfront.net/s3/cgccards-production/research/subcategories/pok_neo-v2.png> Japanese Lugia graded
+- <https://d16hw7tbcsk68f.cloudfront.net/s3/cgccards-production/research/subcategories/pok_promotional-v2.png> Ash and Pikachu graded
+- <https://www.cgccards.uk/Resources/images/grading/trading-cards/why-cgc-trading-cards-pokemon-crop.png?cb=2021-07-30> Trophy Pikachu graded
+- <https://d16hw7tbcsk68f.cloudfront.net/s3/cgccards-production/research/subcategories/pok_original-series.png> Charizard graded

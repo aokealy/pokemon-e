@@ -104,7 +104,7 @@ def checkout_success(request, order_code):
     Handle successful checkouts
     """
     save_info = request.session.get('save_info')
-    order = get_object_or_404(Order, order_code=order_code)
+    order = get_object_or_404(Order, order_number=order_code)
     messages.success(request, f'Order successfully processed! \
         Your order number is {order_code}. A confirmation \
         email will be sent to {order.email}.')

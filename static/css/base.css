@@ -30,6 +30,9 @@ body {
 .main-logo-link {
     width: fit-content;
 }
+.img-frontpage {
+    background: url('/media/charizard-graded.png');
+}
 
 .shop-now-button {
     background: red;

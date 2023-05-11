@@ -125,6 +125,10 @@ Facebook Page:
 
 References: 
 =============
+- <https://www.xml-sitemaps.com/details-pokemon-e.herokuapp.com-49828d4b8.html> Sitemap used
+
+
+
 - <https://wallpapersafari.com/w/qBP3Q1> Pokemon background
 - <https://www.pngitem.com/middle/iRhoToh_pokemon-ex-cards-png-transparent-png/> Deoxys Image
 - <https://d16hw7tbcsk68f.cloudfront.net/s3/cgccards-production/research/subcategories/pok_pop-series.png> Espeon Gold Star Graded

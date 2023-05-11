@@ -61,7 +61,7 @@ def checkout(request):
                     return redirect(reverse('view_cart'))
 
             request.session['save_info'] = 'save-info' in request.POST
-            return redirect(reverse('checkout_success', args=[order.order_code]))
+            return redirect(reverse('checkout_succeed', args=[order.order_code]))
         else:
             messages.error(request, 'There was an error with your form. \
                 Please double check your information.')
@@ -96,7 +96,7 @@ def checkout(request):
 
     return render(request, template, context)
 
-def checkout_success(request, order_code):
+def checkout_succeed(request, order_code):
     """
     Handle successful checkouts
     """
@@ -109,7 +109,7 @@ def checkout_success(request, order_code):
     if 'cart' in request.session:
         del request.session['cart']
 
-    template = 'templates/checkout/checkout_success.html'
+    template = 'checkout/checkout_succeed.html'
     context = {
         'order': order,
     }

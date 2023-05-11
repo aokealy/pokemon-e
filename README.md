@@ -28,6 +28,12 @@ The colours that were used in this webiste were to match the colours of pikachu.
 - ![#FF0000](https://placehold.co/15x15/FF0000/FF0000.png) `#FF0000`
 - ![#000000](https://placehold.co/15x15/000000/000000.png) `#000000`
 
+Typography
+========
+The Typography that was used during this project was Bruno Ace.
+- Bruno Ace draws inspiration from modern automotive logos. This techno geometric sans has a wide stance with a tall x-height for a strong look and appeal. Both a normal case and small caps font exists.
+<img src="media/text-style.PNG">
+
 Site Structure
 ========
 The structure of the website opens up with the home page giving you an overview of everything you need on the page. 

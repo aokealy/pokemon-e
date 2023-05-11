@@ -1,7 +1,15 @@
 {% extends "base.html" %}
 {% load static %}
 
+{% block meta %}
+<meta name="description" content="Find the best pokemon products on this page">
+<meta name="author" content="Pokemon-e">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://pokemon-e.herokuapp.com/{% url 'product_detail' product.id %}">
+{% endblock %}
+
 {% block page_header %}
+
     <div class="container header-container">
         <div class="row">
             <div class="col"></div>

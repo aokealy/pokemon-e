@@ -6,11 +6,47 @@ https://pokemon-e.herokuapp.com/
 
 UX Design
 ========
-The layout is simple where it makes it easy for users to see everything and have easy access in any view 
+The layout is simple where I took layout of Project 5 walkthrough project but addded my own blend to it to make it feel like my own project.
 
 Wireframes
 ========
-https://wireframe.cc/xLmyUQ - Products Page
+ - https://wireframe.cc/u9GpTB - Home Page
+ - https://wireframe.cc/xLmyUQ - Products Page
+ - https://wireframe.cc/dV5USk - cart
+ - https://wireframe.cc/d71ubI - checkout
+
+ 
+ 
+ 
+colours
+=========
+The colours that were used in this webiste were to match the colours of pikachu.
+- We have the colour yellow which matches the colour of pikachu's fur.
+- The red colour was used to match pikachu's red cheeks.
+- The black colour was use to match the ears, tail and eyes of pikachu.
+- ![#f6e652](https://placehold.co/15x15/f6e652/f6e652.png) `#f6e652`
+- ![#FF0000](https://placehold.co/15x15/FF0000/FF0000.png) `#FF0000`
+- ![#000000](https://placehold.co/15x15/000000/000000.png) `#000000`
+
+Site Structure
+========
+The structure of the website opens up with the home page giving you an overview of everything you need on the page. 
+
+front page
+====
+<img src="media/frontpage.PNG">
+
+Products Page
+====
+<img src="media/products.PNG">
+
+Product Item
+====
+<img src="media/productItem.PNG">
+
+Profile
+====
+<img src="media/profile.PNG">
 
 FEATURES 
 ========

@@ -125,7 +125,7 @@ Facebook Page:
 
 References: 
 =============
-- <https://www.xml-sitemaps.com/details-pokemon-e.herokuapp.com-49828d4b8.html> Sitemap used
+- <https://www.xml-sitemaps.com/details-pokemon-e.herokuapp.com-49828d4b8.html> Sitemap used!
 
 
 

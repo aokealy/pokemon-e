@@ -2,6 +2,13 @@
 {% load static %}
 {% load cart_tools %}
 
+{% block meta %}
+<meta name="description" content="Find the best pokemon products on this page and checkout">
+<meta name="author" content="Pokemon-e">
+<meta property="og:type" content="article">
+
+{% endblock %}
+
 
 {% block extra_css %}
     <link rel="stylesheet" href="{% static 'checkout/css/checkout.css' %}">

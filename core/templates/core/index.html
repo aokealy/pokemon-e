@@ -1,6 +1,14 @@
 {% extends "base.html" %}
 {% load static %}
 
+
+{% block meta %}
+<meta name="description" content="Find the best pokemon products on this page">
+<meta name="author" content="Pokemon-e">
+<meta property="og:type" content="article">
+
+{% endblock %}
+
 {% block page_header %}
     <div class="container header-container">
         <div class="row">
@@ -41,7 +49,7 @@
          </div>
          <div class="col-9 col-md-6">
            <h2>Subscribe!</h2>
-           <p>Get exclusive offers and discount codes by subscribing to our monthly newsletter</p>
+           <p>Get exclusive deals and early releases by subscribing to our monthly newsletter!</p>
            <!-- Mailchimp signup form here -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-071822.css" rel="stylesheet" type="text/css">
 

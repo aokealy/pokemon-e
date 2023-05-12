@@ -199,6 +199,8 @@ Bugs:
 - Front Page image does not display in the home page which I tried to fix but could not add it for some reason even though the image is in the s3 bucket static files.
 - styling some areas could have been much better where the header overlaps the products as scrolling through. 
 
+- Stripe Webhooks would not function but you can still buy products and still display the order history on the page. 
+
 
 
 

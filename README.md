@@ -1,7 +1,7 @@
 Pokemon Ecommerce
 ========
-Welcome to my Pokemon Website where we will sell Pokemon items such as Graded cards and sealed products. 
-I have always wanted to create a Pokemon Website and sell Pokemon stuff.
+Welcome to my Pokemon Website where we sell Pokemon items such as Graded cards and sealed products and ungraded cards. 
+I have always wanted to create a Pokemon Website and sell Pokemon stuff and have a theme based site using the style and colours of a pokemon.
 https://pokemon-e.herokuapp.com/
 
 - Git Hub Repository Link:
@@ -198,8 +198,8 @@ Bugs:
 - The header does not stay fixed when scrolling through products which made it hard to add signal messages which would display underneath the header in the left corner instead of right corner.
 - Front Page image does not display in the home page which I tried to fix but could not add it for some reason even though the image is in the s3 bucket static files.
 - styling some areas could have been much better where the header overlaps the products as scrolling through. 
-
 - Stripe Webhooks would not function but you can still buy products and still display the order history on the page. 
+- Toast message wont move to other side of page due to the header bug which is causing it to not being able to click the error message to remove it but it does display the messages.
 
 
 

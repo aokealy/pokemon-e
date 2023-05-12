@@ -202,6 +202,21 @@ Bugs:
 - Toast message wont move to other side of page due to the header bug which is causing it to not being able to click the error message to remove it but it does display the messages.
 
 
+Deployment:
+========
+- Create a Postgres Database and copy the link and create a DATA_BASE_URL install and add it to your settings.
+- comment out sqlite database and replace with new database and make migrations to the new database.
+- after completing it remove the database and put back the old one and check to see if migrations worked on postgres database.
+- You should see new superuser completed after executing. 
+- create a Heroku app and add the postgres database to it.
+- login into Herkou account using cli and disable collectstatic and push code to heroku main.
+- after it is deployed go to s3 bucket for static files and create policies and new users to link to heroku.
+- settings create keys that you get from AWS and link them in heroku. 
+- The static files should display and then add the stripe keys for payments to work to heroku in the var config
+- link heroku to github with your account and click automative updates so when you make changes to your website it will push the code to heroku also. 
+- Your website should be deployed and ready to use. 
+
+
 
 
 References: 

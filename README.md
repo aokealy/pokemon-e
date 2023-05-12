@@ -195,7 +195,7 @@ Testing:
 
 Bugs:
 ========
-- The header does not stay fixed when scrolling through products which made it hard to add signal messages which would display underneath the header in the left corner instead of right corner.
+- The header does not stay fixed when scrolling through products which made it hard to add signal messages which would display underneath the header in the left corner instead of right corner. I have it set to fix but still does moves when scrolling.
 - Front Page image does not display in the home page which I tried to fix but could not add it for some reason even though the image is in the s3 bucket static files.
 - styling some areas could have been much better where the header overlaps the products as scrolling through. 
 - Stripe Webhooks would not function but you can still buy products and still display the order history on the page. 

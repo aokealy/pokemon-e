@@ -123,6 +123,24 @@ Facebook Page:
 - <img src="media/facebook-page.PNG"> Pictures of facebook page
 - <img src="media/facebook-post.PNG">
 
+Testing:
+========
+- Light House test of the website
+<img src="media/lighthouse-test.PNG">
+
+- CSS Validator
+<img src="media/css-valid.PNG">
+
+- Python Validator = 68%
+<img src="media/python-valid.PNG">
+
+Bugs:
+========
+- The header does not stay fixed when scrolling through products which made it hard to add signal messages which would display underneath the header in the left corner instead of right corner.
+- Front Page image does not display in the home page which I tried to fix but could not add it for some reason even though the image is in the s3 bucket static files.
+- styling some areas could have been much better where the header overlaps the products as scrolling through. 
+
+
 References: 
 =============
 - <https://www.xml-sitemaps.com/details-pokemon-e.herokuapp.com-49828d4b8.html> Sitemap used!
